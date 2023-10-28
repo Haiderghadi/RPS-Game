@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Rock, Paper, Scissors Game</title>
+    
 </head>
 <body>
 
@@ -21,7 +21,7 @@
 </ul>
 <h2>Demo</h2>
 
-<p>[Link to live demo, if applicable]</p>
+<p>https://haiderghadi.github.io/RPS-Game/</p>
 
 </body>
 </html>
